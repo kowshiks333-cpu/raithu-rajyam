@@ -1,0 +1,6 @@
+{
+  "name": "Raithu Rajyam – Indian Crop Production Analysis",
+  "description": "Comprehensive agricultural crop production analysis, state-wise yields, interactive crop database, comparison tools, and weather advisories across all 28 states and 8 union territories of India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
